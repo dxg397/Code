@@ -1,0 +1,4 @@
+mean(all_solutions) = 6.1484
+std(all_solutions) = 0.6230
+min(all_solutions) = 3.7309
+max(all_solutions) = 8.0657

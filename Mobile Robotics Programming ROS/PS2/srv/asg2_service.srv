@@ -1,0 +1,4 @@
+float amp
+float freq
+---
+float v_cmd
